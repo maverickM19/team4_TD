@@ -3,7 +3,7 @@ import MaxLogo from "./img/max.png";
 import VadymImg from "./image/VadymImg.jpg";
 import "./App.css";
 import NazariiImg from "./img/nazarii-img.webp";
-import YanaLogo from "./img/yanaimg.png";
+import YanaLogo from "./img/yanaimg.jpg";
 function App() {
   return (
     <div className="App">
